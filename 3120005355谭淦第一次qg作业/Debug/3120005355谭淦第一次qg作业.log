@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(27,12): warning C4013: “chooseview”未定义；假设外部返回 int
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(46,22): warning C4133: “函数”: 从“LinkedList”到“ElemType *”的类型不兼容
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(143,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(183): warning C4716: “chooseview”: 必须返回一个值
+  3120005355谭淦第一次qg作业.vcxproj -> D:\c\3120005355谭淦第一次qg作业\Debug\3120005355谭淦第一次qg作业.exe
