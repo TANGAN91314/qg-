@@ -1,8 +1,0 @@
-﻿  main.c
-C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(61,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(72,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(86,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(40,6): warning C4102: “LOOP”: 未引用的标签
-C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(200,10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\21535\Documents\Tencent Files\215351611\FileRecv\QG训练营第一次培训\代码和头文件\linkList\main.c(222,46): warning C4047: “!=”:“ElemType”与“void *”的间接级别不同
-  3120005355谭淦第一次qg作业.vcxproj -> D:\android\repository\repo3\3120005355谭淦第一次qg作业\Debug\3120005355谭淦第一次qg作业.exe
