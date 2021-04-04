@@ -1,0 +1,2 @@
+D:\c\SqStack\Debug\SqStack.exe
+D:\c\SqStack\Debug\SqStack.pdb
